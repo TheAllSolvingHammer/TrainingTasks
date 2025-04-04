@@ -1,8 +1,5 @@
 package bg.methodia.task.problem1;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class ReverseString {
     private String textToConvert;
 
